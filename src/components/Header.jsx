@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header() {
   return (
-    <div className='max-w-[1480px] mx-auto px-4 h-16'>
+    <div className='max-w-370 mx-auto px-4 h-16'>
         <div className='grid grid-cols-[30%_auto_30%] h-full items-center'>
             <ul className='grid grid-cols-2 place-items-center gap-4 font-audiowide text-xl cursor-pointer'>
                 <li>Shoes</li>
